@@ -1,4 +1,4 @@
-As an AI Lnaguage model, I can certainly edit your README for your "isEven" program! Here's a revised version of the GitHub description for your "isEven" program, presented in a more serious tone:
+As an AI Language model, I can certainly edit your README for your "isEven" program! Here's a revised version of the GitHub description for your "isEven" program, presented in a more serious tone:
 
 # isEven - A Comprehensive Solution for Determining Even Numbers :1234:
 
